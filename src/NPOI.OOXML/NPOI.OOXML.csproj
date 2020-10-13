@@ -9,6 +9,7 @@
     <ProjectReference Include="..\NPOI.OpenXml4Net\NPOI.OpenXml4Net.csproj" />
     <ProjectReference Include="..\NPOI.OpenXmlFormats\NPOI.OpenXmlFormats.csproj" />
     <ProjectReference Include="..\NPOI\NPOI.csproj" />
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.0" PrivateAssets="All" />
   </ItemGroup>
    
 </Project>
