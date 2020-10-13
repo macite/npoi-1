@@ -272,3 +272,6 @@ pkgobj/
 *.zip
 *.ole2
 /solution/Lib/.net4
+
+# Ignore vscode files
+.vscode/
